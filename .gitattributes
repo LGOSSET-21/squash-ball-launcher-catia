@@ -1,0 +1,9 @@
+*.pdf binary
+*.pptx binary
+*.CATPart binary
+*.CATProduct binary
+*.CATDrawing binary
+*.png binary
+*.md text eol=lf
+*.catpart binary
+*.PNG binary
